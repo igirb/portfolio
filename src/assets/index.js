@@ -21,42 +21,42 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
+import bluesun from "./company/bluesun.png";
 import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import corvin from "./company/corvin.png";
+import unideb from "./company/unideb.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
 export {
-  logo,
-  fullstack,
-  devops,
-  cybersec,
-  uiux,
-  github,
-  menu,
-  close,
-  css,
-  docker,
-  figma,
-  git,
-  html,
-  javascript,
-  mongodb,
-  nodejs,
-  reactjs,
-  redux,
-  tailwind,
-  typescript,
-  threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
-  carrent,
-  jobit,
-  tripguide,
+    logo,
+    fullstack,
+    devops,
+    cybersec,
+    uiux,
+    github,
+    menu,
+    close,
+    css,
+    docker,
+    figma,
+    git,
+    html,
+    javascript,
+    mongodb,
+    nodejs,
+    reactjs,
+    redux,
+    tailwind,
+    typescript,
+    threejs,
+    bluesun,
+    starbucks,
+    corvin,
+    unideb,
+    carrent,
+    jobit,
+    tripguide,
 };
