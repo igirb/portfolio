@@ -25,6 +25,7 @@ import bluesun from "./company/bluesun.png";
 import starbucks from "./company/starbucks.png";
 import corvin from "./company/corvin.png";
 import unideb from "./company/unideb.png";
+import codecool from "./company/codecool.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -56,6 +57,7 @@ export {
     starbucks,
     corvin,
     unideb,
+    codecool,
     carrent,
     jobit,
     tripguide,
