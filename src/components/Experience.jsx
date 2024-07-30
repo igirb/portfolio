@@ -58,7 +58,9 @@ const ExperienceCard = ({experience}) => {
 const Experience = () => {
     return (
         <>
-            <motion.div variants={textVariant()}>
+            <motion.div variants={textVariant()}
+                        initial="hidden"
+                        animate="show">
                 <p className={styles.sectionSubText}>The Path of My Professional Journey</p>
                 <h2 className={styles.sectionHeadText}>Experience.</h2>
             </motion.div>
@@ -74,4 +76,4 @@ const Experience = () => {
     )
 }
 
-export default SectionWrapper(Experience, "work");
+export default SectionWrapper(Experience, 'work')
