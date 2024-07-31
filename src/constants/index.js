@@ -118,22 +118,6 @@ const technologies = [
 
 const experiences = [
     {
-        title: "Event Organizer - Animator Team Leader",
-        company_name: "Bluesun Hotels & Resorts",
-        icon: bluesun,
-        iconBg: "#ffffff",
-        date: "Jan 2019 - Sept 2020",
-        points: [
-            "Organizing and coordinating events and performances for guests.",
-            "Developing and implementing engaging sports programs.",
-            "Creating a vibrant and entertaining atmosphere for hotel guests.",
-            "Ensuring smooth execution of all scheduled activities and events.",
-            "Collaborating with other hotel departments to enhance guest satisfaction.",
-            "Maintaining high standards of guest interaction and entertainment.",
-            "Planning and managing resources for various events and activities.",
-        ],
-    },
-    {
         title: "Horticultural Engineering - Plant Doctor Trainee",
         company_name: "University of Debrecen",
         icon: unideb,
