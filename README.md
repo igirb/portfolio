@@ -1,10 +1,10 @@
 <div>
   <br />
-      <img src="https://github.com/igirb/portfolio/blob/main/src/assets/portfheader.png" alt="Project Banner">
+      <img src="https://github.com/igirb/portfolio/blob/main/src/assets/portfheader.png" alt="Project Banner"  align="center"/>
     </a>
   <br />
 
-  <div>
+  <div align="center">
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
     <img src="https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logoColor=white&logo=threedotjs&color=000000" alt="three.js" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
@@ -12,9 +12,11 @@
 
   <br />
 
+<div align="center">
   <h1 align="center">Portfolio of my carrier journey 🌞🚀</h1>
-  <h3 align="center">Under construction but feel free to follow my process and what I have done so far</h3>
-  ![WinkEyeWinkGIF](https://github.com/user-attachments/assets/76a34bea-9c62-4f8b-81ed-ffd6e2c405e6)
+  <h3 align="center">❗ This project is under construction but feel free to follow my process and what I have done so far! 🌟</h3>
+  <img src="https://github.com/user-attachments/assets/76a34bea-9c62-4f8b-81ed-ffd6e2c405e6" />
+  </div>
 
 ## <a name="introduction">🤖 Introduction</a>
 
