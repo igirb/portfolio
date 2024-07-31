@@ -101,7 +101,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 
 <br />
 
-## Take your time and enjoy my website and if you are hungry for more browse among my other projects on GitHub! 🌞
+# Take your time and enjoy my website and if you are hungry for more browse among my other projects on GitHub! 🌞
 
 <br />
 
