@@ -14,9 +14,11 @@
 
 <div align="center">
   <h1 align="center">Portfolio of my carrier journey 🌞🚀</h1>
-  <h3 align="center">❗ This project is under construction but feel free to follow my process and what I have done so far! 🌟</h3>
+  <h3 align="center">❗ This project is under construction but feel free to follow my steps and what I have done so far! 🌟</h3>
   <img src="https://github.com/user-attachments/assets/76a34bea-9c62-4f8b-81ed-ffd6e2c405e6" />
   </div>
+
+  <br />
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -31,6 +33,8 @@ Welcome to my digital playground where creativity meets innovation! Explore my j
 - Email JS
 - Vite
 - Tailwind CSS
+
+<br />
 
 ## <a name="features">🔋 Features</a>
 
@@ -51,6 +55,8 @@ Welcome to my digital playground where creativity meets innovation! Explore my j
 👉 **Responsive Design**: Guarantees optimal display and functionality on all devices.
 
 And many more features, including robust code architecture and reusability.
+
+<br />
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
