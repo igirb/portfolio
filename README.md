@@ -13,8 +13,8 @@
   <br />
 
   <h1 align="center">Portfolio of my carrier journey 🌞🚀</h1>
-  <h3 align="center">Under construction but feel free to follow my process and what I have done so far![WinkEyeWinkGIF](https://github.com/user-attachments/assets/76a34bea-9c62-4f8b-81ed-ffd6e2c405e6)
-</h3>
+  <h3 align="center">Under construction but feel free to follow my process and what I have done so far</h3>
+  ![WinkEyeWinkGIF](https://github.com/user-attachments/assets/76a34bea-9c62-4f8b-81ed-ffd6e2c405e6)
 
 ## <a name="introduction">🤖 Introduction</a>
 
