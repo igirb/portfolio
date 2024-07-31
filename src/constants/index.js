@@ -4,18 +4,21 @@ import {
     devops,
     fullstack,
     javascript,
-    typescript,
     html,
     css,
     reactjs,
-    redux,
-    tailwind,
     nodejs,
+    tailwind,
     mongodb,
+    java,
     git,
     figma,
     docker,
-    bluesun,
+    aws,
+    ubuntu,
+    postgresql,
+    jenkins,
+    kubernetes,
     starbucks,
     corvin,
     unideb,
@@ -75,16 +78,8 @@ const technologies = [
         icon: javascript,
     },
     {
-        name: "TypeScript",
-        icon: typescript,
-    },
-    {
         name: "React JS",
         icon: reactjs,
-    },
-    {
-        name: "Redux Toolkit",
-        icon: redux,
     },
     {
         name: "Tailwind CSS",
@@ -113,6 +108,30 @@ const technologies = [
     {
         name: "docker",
         icon: docker,
+    },
+    {
+        name: "kubernetes",
+        icon: kubernetes,
+    },
+    {
+        name: "aws",
+        icon: aws,
+    },
+    {
+        name: "jenkins",
+        icon: jenkins,
+    },
+    {
+        name: "postgresql",
+        icon: postgresql,
+    },
+    {
+        name: "ubuntu",
+        icon: ubuntu,
+    },
+    {
+        name: "java",
+        icon: java,
     },
 ];
 

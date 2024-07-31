@@ -16,12 +16,15 @@ import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
-import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
-import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import java from "./tech/java.png";
+import kubernetes from "./tech/kubernetes.png";
+import aws from "./tech/aws.png";
+import jenkins from "./tech/jenkins.png";
+import postgresql from "./tech/postgresql.png";
+import ubuntu from "./tech/ubuntu.png";
 
-import bluesun from "./company/bluesun.png";
 import starbucks from "./company/starbucks.png";
 import corvin from "./company/corvin.png";
 import unideb from "./company/unideb.png";
@@ -44,17 +47,20 @@ export {
     css,
     docker,
     figma,
+    aws,
+    jenkins,
+    postgresql,
+    ubuntu,
     git,
     html,
     javascript,
     mongodb,
     nodejs,
     reactjs,
-    redux,
     tailwind,
-    typescript,
+    java,
+    kubernetes,
     threejs,
-    bluesun,
     starbucks,
     corvin,
     unideb,
