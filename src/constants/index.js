@@ -164,6 +164,22 @@ const experiences = [
         ],
     },
     {
+        title: "Full-Stack Developer - DevOps Engineer - Student",
+        company_name: "Codecool",
+        icon: codecool,
+        iconBg: "#081136",
+        date: "July 2023 - 2024 July",
+        points: [
+            "Architecting scalable infrastructure and orchestrating containerized deployments using AWS, Docker, and Kubernetes.",
+            "Establishing automated CI/CD pipelines with Jenkins to streamline cloud environment workflows.",
+            "Developing robust and maintainable Java applications by implementing object-oriented programming and SOLID principles.",
+            "Crafting scalable database solutions with PostgreSQL and ensuring code reliability through unit testing.",
+            "Building web applications using the MERN stack, including MongoDB, Express.js, React, and Node.js for full-stack development.",
+            "Utilizing fundamental programming concepts in JavaScript, CSS, and Node.js, with a focus on algorithmic problem-solving.",
+            "Applying Agile methodologies and Scrum practices to manage projects efficiently and foster a collaborative development environment.",
+        ],
+    },
+    {
         title: "Key Partner - Shift Supervisor - Manager",
         company_name: "Starbucks",
         icon: starbucks,
@@ -178,22 +194,6 @@ const experiences = [
             "Guiding teams to success through strong leadership.",
             "Overseeing daily operations to enhance productivity and efficiency.",
             "Collaborating effectively as a team player to achieve common goals."
-        ],
-    },
-    {
-        title: "Full-Stack Developer - DevOps Engineer - Student",
-        company_name: "Codecool",
-        icon: codecool,
-        iconBg: "#081136",
-        date: "July 2023 - 2024 July",
-        points: [
-            "Architecting scalable infrastructure and orchestrating containerized deployments using AWS, Docker, and Kubernetes.",
-            "Establishing automated CI/CD pipelines with Jenkins to streamline cloud environment workflows.",
-            "Developing robust and maintainable Java applications by implementing object-oriented programming and SOLID principles.",
-            "Crafting scalable database solutions with PostgreSQL and ensuring code reliability through unit testing.",
-            "Building web applications using the MERN stack, including MongoDB, Express.js, React, and Node.js for full-stack development.",
-            "Utilizing fundamental programming concepts in JavaScript, CSS, and Node.js, with a focus on algorithmic problem-solving.",
-            "Applying Agile methodologies and Scrum practices to manage projects efficiently and foster a collaborative development environment.",
         ],
     },
     {
