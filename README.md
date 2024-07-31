@@ -13,6 +13,8 @@
   <br />
 
   <h1 align="center">Portfolio of my carrier journey 🌞🚀</h1>
+  <h3 align="center">Under construction but feel free to follow my process and what I have done so far![WinkEyeWinkGIF](https://github.com/user-attachments/assets/76a34bea-9c62-4f8b-81ed-ffd6e2c405e6)
+</h3>
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -95,9 +97,13 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
-## Take your time and enjoy my website! 🌞
+<br />
 
-<h3 align="left">📫 You can contact me at LinkdIn:</h3>
+## Take your time and enjoy my website and if you are hungry for more browse among my other projects on GitHub! 🌞
+
+<br />
+
+<h3 align="left">📫 If you would like to work with me, you can contact me via LinkdIn:</h3>
 
 <p align="left">
 <a href="https://linkedin.com/in/igirb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/igirb/" height="20" width="15"/>igirb</a>
