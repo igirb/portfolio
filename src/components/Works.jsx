@@ -1,9 +1,24 @@
-import React from 'react'
+import React from "react";
+import { Tilt } from "react-tilt";
+import { motion } from "framer-motion";
+
+import { styles } from "../styles";
+import { github } from "../assets";
+import { SectionWrapper } from "../hoc";
+import { projects } from "../constants";
+import { fadeIn, textVariant } from "../utils/motion";
 
 const Works = () => {
   return (
-    <div>Works</div>
+      <>
+        <motion.div variants={textVariant()}
+                    initial="hidden"
+                    animate="show">
+          <p className={styles.sectionSubText}>My treasures</p>
+          <h2 className={styles.sectionHeadText}>Projects.</h2>
+        </motion.div>
+      </>
   )
 }
 
-export default Works
+export default SectionWrapper(Works, '');
