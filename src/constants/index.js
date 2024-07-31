@@ -20,6 +20,7 @@ import {
     corvin,
     unideb,
     codecool,
+    cyber,
     carrent,
     jobit,
     tripguide,
@@ -193,6 +194,16 @@ const experiences = [
             "Building web applications using the MERN stack, including MongoDB, Express.js, React, and Node.js for full-stack development.",
             "Utilizing fundamental programming concepts in JavaScript, CSS, and Node.js, with a focus on algorithmic problem-solving.",
             "Applying Agile methodologies and Scrum practices to manage projects efficiently and foster a collaborative development environment.",
+        ],
+    },
+    {
+        title: "Cybersecurity Engineer - Student",
+        company_name: "Obuda University",
+        icon: cyber,
+        iconBg: "#081136",
+        date: "Sept 2024 - Present",
+        points: [
+            "I am thrilled to start my journey in cybersecurity engineering at Óbuda University this September!",
         ],
     },
 ];

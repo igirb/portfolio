@@ -9,8 +9,6 @@ export const textVariant = (delay) => {
       opacity: 1,
       transition: {
         type: "spring",
-        stiffness: 50, // Add stiffness if needed
-        damping: 10,   // Add damping if needed
         duration: 1.25,
         delay: delay,
       },
