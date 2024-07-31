@@ -10,7 +10,9 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
 
-  <h3 align="center">Portfolio of my carrier journey 🌞🚀</h3>
+  <br />
+
+  <h1 align="center">Portfolio of my carrier journey 🌞🚀</h1>
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -93,5 +95,12 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
-Take your time and enjoy my website! 🌞
+## Take your time and enjoy my website! 🌞
+
+<h3 align="left">📫 You can contact me at **LinkedIn**:</h3>
+
+<p align="left">
+<a href="https://linkedin.com/in/igirb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/igirb/" height="20" width="15"/>igirb</a>
+</p>
+
 #
