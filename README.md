@@ -111,7 +111,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 
 <br />
 
-## <a align="left">📫 If you would like to work with me, you can contact me via LinkdIn:</a>
+## <a align="left">📫 If you would like to work with me, you can contact me via LinkedIn:</a>
 
 <p align="left">
 <a href="https://linkedin.com/in/igirb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/igirb/" height="20" width="15"/>  igirb</a>
