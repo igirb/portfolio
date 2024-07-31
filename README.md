@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <br />
       <img src="https://github.com/igirb/portfolio/blob/main/src/assets/portfheader.png" alt="Project Banner">
     </a>
