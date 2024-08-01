@@ -200,7 +200,7 @@ const testimonials = [
     {
         testimonial:
             "I  had the pleasure of mentoring Brigi in DevOps, and she stood out as an exceptionally bright and dedicated learner. Brigi collaborated seamlessly with her peers, consistently provided clear status updates, and demonstrated a thorough understanding of complex concepts. Her steady and methodical approach to learning will make her a valuable asset to any team.",
-        name: "Gabor Csuvik",
+        name: "Gábor Csuvik",
         designation: "DevOps Lead",
         company: "Infinite Lambda",
         image: "https://business.progmasters.hu/wp-content/uploads/2018/09/Csuvik_Gabor.jpg",
@@ -216,7 +216,7 @@ const testimonials = [
     {
         testimonial:
             "I recommend Brigitta for any creative endeavours. As her former teacher at Corvin Art School, I can attest to her artistic abilities, attention to detail, and strong work ethic. She consistently produced high-quality work and demonstrated a genuine passion for graphic design. Brigitta's creativity, originality, and positive attitude make her a valuable asset to any team or project.",
-        name: "Aron Borbely",
+        name: "Áron Borbély",
         designation: "Co-Founder",
         company: "Compact Design Studio",
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7F5xEiR_vutqLFwbsFqyJvITfO0EIyU40zK8gr775q4GOfT_3j7lYV7fXhiHgHOw97rs&usqp=CAU",
