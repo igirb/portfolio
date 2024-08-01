@@ -17,13 +17,10 @@ import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
 import tailwind from "./tech/tailwind.png";
-import threejs from "./tech/threejs.svg";
 import java from "./tech/java.png";
 import kubernetes from "./tech/kubernetes.png";
 import aws from "./tech/aws.png";
 import jenkins from "./tech/jenkins.png";
-import postgresql from "./tech/postgresql.png";
-import ubuntu from "./tech/ubuntu.png";
 
 import starbucks from "./company/starbucks.png";
 import corvin from "./company/corvin.png";
@@ -31,9 +28,9 @@ import unideb from "./company/unideb.png";
 import codecool from "./company/codecool.png";
 import cyber from "./company/cyber.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import moviedb from "./moviedb.png";
+import dungeon from "./dungeon.png";
+import aiconf from "./aiconf.jpg";
 
 export {
     logo,
@@ -49,8 +46,6 @@ export {
     figma,
     aws,
     jenkins,
-    postgresql,
-    ubuntu,
     git,
     html,
     javascript,
@@ -60,13 +55,12 @@ export {
     tailwind,
     java,
     kubernetes,
-    threejs,
     starbucks,
     corvin,
     unideb,
     codecool,
     cyber,
-    carrent,
-    jobit,
-    tripguide,
+    moviedb,
+    dungeon,
+    aiconf,
 };

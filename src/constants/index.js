@@ -15,8 +15,6 @@ import {
     figma,
     docker,
     aws,
-    ubuntu,
-    postgresql,
     jenkins,
     kubernetes,
     starbucks,
@@ -24,10 +22,9 @@ import {
     unideb,
     codecool,
     cyber,
-    carrent,
-    jobit,
-    tripguide,
-    threejs,
+    moviedb,
+    dungeon,
+    aiconf,
 } from "../assets";
 
 export const navLinks = [
@@ -228,9 +225,9 @@ const testimonials = [
 
 const projects = [
     {
-        name: "Car Rent",
+        name: "Favorite Movies DB",
         description:
-            "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "With the elegance of HBO GO and the convenience of modern design, this project is your ultimate companion for organizing and remembering your favorite films. Save and categorize your must-watch movies, add personal comments, and mark them as seen or unseen with just a click. Say goodbye to forgetting that blockbuster you've been dying to watch, and hello to effortless movie management with style.",
         tags: [
             {
                 name: "react",
@@ -241,54 +238,54 @@ const projects = [
                 color: "green-text-gradient",
             },
             {
-                name: "tailwind",
-                color: "pink-text-gradient",
-            },
-        ],
-        image: carrent,
-        source_code_link: "https://github.com/",
-    },
-    {
-        name: "Job IT",
-        description:
-            "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
-        tags: [
-            {
-                name: "react",
-                color: "blue-text-gradient",
-            },
-            {
                 name: "restapi",
-                color: "green-text-gradient",
-            },
-            {
-                name: "scss",
                 color: "pink-text-gradient",
             },
         ],
-        image: jobit,
-        source_code_link: "https://github.com/",
+        image: moviedb,
+        source_code_link: "https://github.com/igirb/my-fav-movies-db.git",
     },
     {
-        name: "Trip Guide",
+        name: "A-IDEA Conference",
         description:
-            "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+            "The A-IDEA conference aims to delve into the complex relationship between artificial intelligence (AI) and human emotions, exploring how AI can understand, simulate, and influence emotions. The project involves creating a cohesive and impactful brand identity that encapsulates the essence of this theme.",
         tags: [
             {
-                name: "nextjs",
+                name: "mockup",
                 color: "blue-text-gradient",
             },
             {
-                name: "supabase",
+                name: "adobe",
                 color: "green-text-gradient",
             },
             {
-                name: "css",
+                name: "figma",
                 color: "pink-text-gradient",
             },
         ],
-        image: tripguide,
-        source_code_link: "https://github.com/",
+        image: aiconf,
+        source_code_link: "https://github.com/igirb/ai_conference.git",
+    },
+    {
+        name: "Dungeon Crawl - Star Wars Edition",
+        description:
+        "Channeling the spirit of the galaxy far, far away, you'll face off against Stormtroopers, confront the formidable Dark Sidious, and rescue the wise Jedi Master Yoda. Along the way, collect powerful items, potions, and keys to unlock gates and uncover hidden treasures. May the Force be with you as you navigate the perilous depths of the dungeon!",
+        tags: [
+            {
+                name: "java",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "springboot",
+                color: "green-text-gradient",
+            },
+            {
+                name: "javafx",
+                color: "pink-text-gradient",
+            },
+        ],
+        image: dungeon,
+        source_code_link: "https://github.com/igirb/star-wars-style-dungeon-crawl.git",
     },
 ];
 
