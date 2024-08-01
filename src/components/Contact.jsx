@@ -78,39 +78,39 @@ const Contact = () => {
           <form
               ref={formRef}
               onSubmit={handleSubmit}
-              className='mt-12 flex flex-col gap-8'
+              className='mt-10 flex flex-col gap-8'
           >
             <label className='flex flex-col'>
-              <span className='text-white font-medium mb-4'>Your Name</span>
+              <span className='text-white font-medium mb-2'>Your Name</span>
               <input
                   type='text'
                   name='name'
                   value={form.name}
                   onChange={handleChange}
                   placeholder="What's your name?"
-                  className='bg-tertiary py-4 px-6 placeholder:text-secondary text-white rounded-lg outline-none border-none font-medium'
+                  className='bg-tertiary py-2 px-4 placeholder:text-secondary text-white rounded-lg outline-none border-none font-medium'
               />
             </label>
             <label className='flex flex-col'>
-              <span className='text-white font-medium mb-4'>Your email</span>
+              <span className='text-white font-medium mb-2'>Your email</span>
               <input
                   type='email'
                   name='email'
                   value={form.email}
                   onChange={handleChange}
                   placeholder="What's your address?"
-                  className='bg-tertiary py-4 px-6 placeholder:text-secondary text-white rounded-lg outline-none border-none font-medium'
+                  className='bg-tertiary py-2 px-4 placeholder:text-secondary text-white rounded-lg outline-none border-none font-medium'
               />
             </label>
             <label className='flex flex-col'>
-              <span className='text-white font-medium mb-4'>Your Message</span>
+              <span className='text-white font-medium mb-2'>Your Message</span>
               <textarea
-                  rows={7}
+                  rows={4}
                   name='message'
                   value={form.message}
                   onChange={handleChange}
                   placeholder='What would you like to say?'
-                  className='bg-tertiary py-4 px-6 placeholder:text-secondary text-white rounded-lg outline-none border-none font-medium'
+                  className='bg-tertiary py-2 px-4 placeholder:text-secondary text-white rounded-lg outline-none border-none font-medium'
               />
             </label>
 
