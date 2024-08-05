@@ -6,7 +6,7 @@ WORKDIR /app
 
 COPY package*.json ./
 
-RUN echo "Installing dependencies..." && npm install
+RUN echo "Installing dependencies..." && NODE_ENV=development npm install
 
 COPY . .
 
