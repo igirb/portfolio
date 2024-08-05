@@ -47,4 +47,4 @@ jobs:
       - name: Deploy Docker Container
         run: |
           docker pull igirb/3d_portfolio_website:latest
-          docker run -d -p 3000:3000 igirb/3d_portfolio_website:latest
+          docker run -d -p 4173:4173 igirb/3d_portfolio_website:latest

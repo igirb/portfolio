@@ -12,6 +12,6 @@ COPY . .
 
 RUN echo "Building the application..." && npm run build
 
-EXPOSE 3000
+EXPOSE 4173
 
 CMD ["npm", "run", "preview"]
