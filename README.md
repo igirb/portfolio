@@ -33,6 +33,7 @@ Welcome to my digital playground where creativity meets innovation! Explore my j
 - Email JS
 - Vite
 - Tailwind CSS
+- Docker
 
 <br />
 
@@ -46,13 +47,15 @@ Welcome to my digital playground where creativity meets innovation! Explore my j
 
 👉 **Animated Projects and Testimonials**: Presents projects and client testimonials with captivating animations via Framer Motion.
 
-👉 **Contact Section with 3D Earth Model**: Incorporates a 3D Earth model and email functionality using EmailJS.
+👉 **Contact Section with 3D Earth Model**: Incorporates a 3D Earth model.
 
 👉 **3D Star Background**: Creates a stunning starry background with progressively generated stars using Three.js.
 
 👉 **Consistent Animations**: Delivers smooth and cohesive animations across the website using Framer Motion.
 
 👉 **Responsive Design**: Guarantees optimal display and functionality on all devices.
+
+👉 **Automated Deployment with Docker**: Utilizes Docker for seamless deployment and GitHub Actions for CI/CD automation.
 
 And many more features, including robust code architecture and reusability.
 
@@ -64,34 +67,25 @@ Follow these steps to checkout my portfolio locally on your machine.
 
 **Prerequisites**
 
-Make sure you have the following installed on your machine:
+Make sure you have Docker installed on your machine:
 
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
+- [Docker](https://www.docker.com/)
 
-**Cloning the Repository**
+**Running the Project with Docker**
 
-```bash
-git clone git@github.com:igirb/portfolio.git
-cd 3d_portfolio
-```
-
-**Installation**
-
-Install the project dependencies using npm:
+Pull the latest Docker image from Docker Hub:
 
 ```bash
-npm install
+docker pull igirb/3d_portfolio_website:latest
 ```
 
-**Running the Project**
+Run the Docker container:
 
 ```bash
-npm run dev
+docker run -d -p 4173:4173 igirb/3d_portfolio_website:latest
 ```
 
-Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+Open [http://localhost:4173](http://localhost:4173) in your browser to view the project.
 
 <br />
 
