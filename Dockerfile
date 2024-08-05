@@ -1,17 +1,16 @@
 FROM node:16-alpine
 
 ENV NODE_ENV=production
-ENV REACT_APP_API_URL=https://api.brigportfolio.com
 
 WORKDIR /app
 
 COPY package*.json ./
 
-RUN npm install
+RUN echo "Installing dependencies..." && npm install
 
 COPY . .
 
-RUN npm run build
+RUN echo "Building the application..." && npm run build
 
 EXPOSE 3000
 
