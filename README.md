@@ -4,6 +4,22 @@
     </a>
   <br />
 
+  <br />
+
+<div align="center">
+  <h1 align="center">Portfolio of my carrier journey 🌞🚀</h1>
+  <h3 align="center">❗ This project is under construction but feel free to follow my steps and what I have done so far! 🌟</h3>
+  <img src="https://github.com/user-attachments/assets/76a34bea-9c62-4f8b-81ed-ffd6e2c405e6" />
+  </div>
+
+  <br />
+
+## <a name="introduction">🤖 Introduction</a>
+
+Welcome to my digital playground where creativity meets innovation! Explore my journey and projects as I blend technology and passion to craft exceptional solutions.
+
+## <a name="tech-stack">⚙️ Tech Stack</a>
+
   <div align="center">
     <a href="https://react.dev/" target="_blank">
   <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
@@ -30,31 +46,6 @@
   <img src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logoColor=white&logo=docker&color=2496ED" alt="docker" />
 </a>
   </div>
-
-  <br />
-
-<div align="center">
-  <h1 align="center">Portfolio of my carrier journey 🌞🚀</h1>
-  <h3 align="center">❗ This project is under construction but feel free to follow my steps and what I have done so far! 🌟</h3>
-  <img src="https://github.com/user-attachments/assets/76a34bea-9c62-4f8b-81ed-ffd6e2c405e6" />
-  </div>
-
-  <br />
-
-## <a name="introduction">🤖 Introduction</a>
-
-Welcome to my digital playground where creativity meets innovation! Explore my journey and projects as I blend technology and passion to craft exceptional solutions.
-
-## <a name="tech-stack">⚙️ Tech Stack</a>
-
-- React.js
-- Three.js
-- React Three Fiber
-- React Three Drei
-- Email JS
-- Vite
-- Tailwind CSS
-- Docker
 
 <br />
 
