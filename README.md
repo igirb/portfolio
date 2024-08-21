@@ -5,9 +5,30 @@
   <br />
 
   <div align="center">
-    <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
-    <img src="https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logoColor=white&logo=threedotjs&color=000000" alt="three.js" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+    <a href="https://react.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
+</a>
+<a href="https://threejs.org/" target="_blank">
+  <img src="https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logoColor=white&logo=threedotjs&color=000000" alt="three.js" />
+</a>
+<a href="https://docs.pmnd.rs/react-three-fiber/getting-started/introduction" target="_blank">
+  <img src="https://img.shields.io/badge/-React_Three_Fiber-black?style=for-the-badge&logoColor=white&logo=react&color=000000" alt="react-three-fiber" />
+</a>
+<a href="https://docs.pmnd.rs/drei/introduction" target="_blank">
+  <img src="https://img.shields.io/badge/-React_Three_Drei-black?style=for-the-badge&logoColor=white&logo=react&color=000000" alt="react-three-drei" />
+</a>
+<a href="https://www.emailjs.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-Email_JS-black?style=for-the-badge&logoColor=white&logo=emailjs&color=4285F4" alt="email-js" />
+</a>
+<a href="https://vitejs.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/-Vite-black?style=for-the-badge&logoColor=white&logo=vite&color=646CFF" alt="vite" />
+</a>
+<a href="https://tailwindcss.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+</a>
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logoColor=white&logo=docker&color=2496ED" alt="docker" />
+</a>
   </div>
 
   <br />
